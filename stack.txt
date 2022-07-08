@@ -1,0 +1,23 @@
+Plan
+
+framework:
+next js
+typescript
+
+backend api:
+tRPC
+
+utils:
+esbuild
+prettier
+jotai
+
+styling:
+scss
+
+testing:
+vitest
+
+Database:
+sql lite
+prisma
